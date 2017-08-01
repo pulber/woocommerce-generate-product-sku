@@ -1,0 +1,1 @@
+# woocommerce-generate-product-sku
